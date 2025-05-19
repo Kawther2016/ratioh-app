@@ -1,2 +1,2 @@
-# ratioh-app
-Simulated development project for Ratiohub (Jira-integrated)
+Added sign-up form layout [RD-1]
+
